@@ -1,0 +1,19 @@
+{
+  "name": "clientserverapp",
+  "version": "1.0.0",
+  "description": "The project contains client side app as react application and server side app (using Node.js, express.js and more).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nir Kovrovski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "response-time": "^2.3.2"
+  },
+  "devDependencies": {
+    "morgan": "^1.9.1"
+  }
+}
